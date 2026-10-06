@@ -1,0 +1,14 @@
+{
+  "model_name": "Linear Regression - Alla Features",
+  "features_used": [
+    "Feature_0",
+    "Feature_1",
+    "Feature_2",
+    "Feature_3",
+    "Feature_4"
+  ],
+  "validation_rmse": 21.855563496267376,
+  "test_rmse": 21.062392725865394,
+  "model_type": "Linear Regression",
+  "selection_method": "Automatisk val baserat p\u00e5 l\u00e4gst RMSE"
+}

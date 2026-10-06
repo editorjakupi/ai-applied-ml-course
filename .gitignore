@@ -1,0 +1,13 @@
+__pycache__/
+.venv/
+venv/
+.env
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+.ipynb_checkpoints/
+.DS_Store
+node_modules/
+*.pptx
