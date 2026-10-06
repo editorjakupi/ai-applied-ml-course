@@ -6,7 +6,21 @@ Personal course work from **AI – teori och tillämpning** (NBI Handelsakademin
 
 - `del1-exercises/` — notebooks and small apps for classical ML (regression, classification, clustering, PCA, ...)
 - `del2-exercises/` — weekly deep-learning practice notebooks (ANN/CNN/RNN-related exercises)
-- `theory-answers/` — written answers (Markdown + combined PDF) for chapters 1–10
+- `theory-answers/` — written answers (Markdown + combined PDF) for chapters 1–10, named by topic:
+
+  | File | Topic |
+  |---|---|
+  | `Kapitel01_Introduktion_till_maskininlärning.md` | Introduction to machine learning |
+  | `Kapitel02_Ett_ML_projekt_från_början_till_slut.md` | An ML project end to end |
+  | `Kapitel03_Regression.md` | Regression |
+  | `Kapitel04_Klassificering.md` | Classification |
+  | `Kapitel05_Dimensionsreduktion.md` | Dimensionality reduction |
+  | `Kapitel06_Klustring.md` | Clustering |
+  | `Kapitel07_Artificiella_Neurala_Nätverk_ANN.md` | Artificial neural networks (ANN) |
+  | `Kapitel08_CNN.md` | Convolutional neural networks |
+  | `Kapitel09_RNN.md` | Recurrent neural networks |
+  | `Kapitel10_Chattbottar.md` | Chatbots / LLMs |
+  | `Alla_Kapitel_1-10_Teorisvar.md` / `.pdf` | All chapters combined |
 
 ## Related repositories (already published)
 
